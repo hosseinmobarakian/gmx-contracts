@@ -1,0 +1,1 @@
+Hi, I discovered a critical vulnerability in the gtx-contracts repository, but my Immunefi account is newly created and I'm unable to submit the report. Would it be possible for you to temporarily allow submissions from new accounts on Immunefi?
